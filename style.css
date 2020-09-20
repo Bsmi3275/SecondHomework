@@ -45,9 +45,7 @@ body {
   }
   
   #bio-image,
-  #bio-image-2,
-  #bio-image-3,
-  #bio-image-4 {
+  #bio-image-3 {
     width: 200px;
     height: 200px;
     margin-right: 20px;
