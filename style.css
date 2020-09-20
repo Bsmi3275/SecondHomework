@@ -36,7 +36,6 @@ body {
   }
   
   #main-bio,
-  #contact-info,
   #bio-image {
     float: left;
   }
@@ -45,11 +44,10 @@ body {
     width: 70%;
   }
   
-  #contact-info {
-    width: 30%;
-  }
-  
-  #bio-image {
+  #bio-image,
+  #bio-image-2,
+  #bio-image-3,
+  #bio-image-4 {
     width: 200px;
     height: 200px;
     margin-right: 20px;
